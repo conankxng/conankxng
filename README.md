@@ -45,6 +45,12 @@ My passion is to leverage AI-driven development and cutting-edge frameworks to c
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/conankxng/conankxng/output/github-snake-dark.svg" alt="github-snake" />
+</p>
+
+---
+
 <h3 align="center">🏆 My GitHub Stats</h3>
 ㅤ
 ㅤ
