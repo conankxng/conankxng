@@ -30,5 +30,7 @@ I'm a passionate developer currently focusing on **Full-stack Development**. I l
 <h3 align="center">🏆 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=conankxng&show_icons=true&theme=dark&hide_border=true" alt="GitHub Extended Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=conankxng&show_icons=true&theme=dark" alt="GitHub Extended Stats" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=conankxng&layout=compact&theme=dark" alt="Top Languages" />
 </p>
