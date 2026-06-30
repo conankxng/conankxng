@@ -30,6 +30,8 @@ I'm a passionate developer currently focusing on **Full-stack Development**. I l
 <h3 align="center">🏆 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conankxng&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conankxng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- เปลี่ยนมาใช้ API ของ github-stats-extended -->
+  <img src="https://github-stats-extended.vercel.app/api?username=conankxng&show_icons=true&theme=dark" alt="GitHub Extended Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conankxng&layout=compact&theme=dark" alt="Top Languages" />
 </p>
