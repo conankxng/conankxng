@@ -3,10 +3,11 @@
 I'm a passionate developer currently focusing on **Full-stack Development**. I love turning ideas into reality through code.
 
 ## 🚀 About Me
-* 🎓 1st-year university student majoring in **Digital Technology for Business**.
+* 🎓 1st-year student in **Digital Technology for Business** at **Silpakorn University**.
 * 💻 Currently diving deep into **Python**, **JavaScript**, and the **MERN Stack**.
-* 🛠️ Building projects like web systems (e-commerce & game rentals), LINE Chatbots with API integrations, and exploring payment gateways.
-* 🕵️‍♂️ Fun fact: Always ready to solve bugs (almost like Detective Conan solving cases!)
+* 🛠️ Building projects like a **Game Rental Web System** (Steam-inspired UI), **LINE Chatbots** (using n8n & Google Sheets), and integrating payment gateways.
+* 🧠 Exploring AI and Prompt Engineering to optimize workflows and self-learning.
+* 🕵️‍♂️ Fun fact: Huge fan of Detective Conan—always ready to investigate and solve bugs!
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
