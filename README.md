@@ -6,7 +6,7 @@ I am a Full-stack Developer currently pursuing a degree in **Digital Technology 
 
 I live in Ratchaburi, Thailand, where I am actively involved in exploring and utilizing AI tools to enhance my development workflow. I enjoy experimenting with new technologies to build scalable web platforms, develop cross-platform mobile applications, and create automated workflows that solve complex real-world challenges.
 
-My passion is to leverage AI-driven development and cutting-edge frameworks to create innovative and efficient software solutions. When I am not coding, I like to spend time with my grandmother.
+My passion is to leverage AI-driven development and cutting-edge frameworks to create innovative and efficient software solutions. When I am not busy decoding complex problems in my code, you can find me diving into the world of Detective Conan, where I find that solving mysteries is just as thrilling as solving bugs.
 
 ---
 
