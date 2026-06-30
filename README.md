@@ -31,5 +31,7 @@ I'm a passionate developer currently focusing on **Full-stack Development**. I l
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=conankxng&show_icons=true&theme=dark" alt="GitHub Extended Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conankxng&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
+  
+  <!-- เติม &v=1 เพื่อบังคับเคลียร์ Cache -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=conankxng&layout=compact&theme=dark&v=1" alt="Top Languages" />
 </p>
