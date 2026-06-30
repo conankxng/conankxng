@@ -5,7 +5,7 @@
 ## 🚀 About Me
 * 🎓 **2nd-year student** majoring in **Digital Technology for Business** at **Silpakorn University**.
 * 🤖 **AI-Driven Developer:** I heavily leverage **ChatGPT, Claude, Gemini, and Lovable** for prompt engineering, workflow automation, and rapid prototyping.
-* 🛠️ **What I Build: Crafting dynamic full-stack systems, intelligent API integrations, and versatile mobile apps designed for high performance and seamless user experiences.
+* 🛠️ **What I Build:** Crafting dynamic full-stack systems, intelligent API integrations, and versatile mobile apps designed for high performance and seamless user experiences.
 * 🕵️‍♂️ **Fun fact:** Huge fan of Detective Conan—always ready to investigate and solve complex bugs!
 
 ## 💻 Tech Stack & Databases
