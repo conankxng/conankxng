@@ -55,5 +55,10 @@ My passion is to leverage AI-driven development and cutting-edge frameworks to c
 ㅤ
 ㅤ
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=conankxng&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github-stats-extended.vercel.app/api?username=conankxng&include_all_commits=true&theme=ambient_gradient">
+    <img src="https://github-stats-extended.vercel.app/api?username=conankxng&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" />
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=conankxng&langs_count=4&theme=ambient_gradient">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=conankxng&langs_count=4&theme=ambient_gradient" alt="Top Languages" />
+  </a>
 </p>
